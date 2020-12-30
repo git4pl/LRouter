@@ -1,0 +1,6 @@
+include ':test-module-one'
+include ':lib-lrouter'
+include ':lrouter-compiler'
+include ':lrouter-annotation'
+include ':app'
+rootProject.name = "LRouter"
